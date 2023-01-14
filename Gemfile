@@ -48,3 +48,5 @@ end
 
 
 gem "ruby-lsp", "~> 0.3.7", :group => :development
+gem "doorkeeper"
+gem "devise"
